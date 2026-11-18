@@ -87,7 +87,7 @@ python -m src all
 
 Artifacts:
 
-- Code: this repository
+- Code: https://github.com/akshaymathur777/6th-world-championship
 - Dataset: https://huggingface.co/datasets/akshaymathur777/cdc-clinical-guidelines-privacy-first
 - Yankee import: `cdc-guidelines-yankee.zip` with embedding model `ollama:mxbai-embed-large`
 - Cover: `docs/cover.png`

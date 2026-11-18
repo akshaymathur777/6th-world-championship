@@ -9,11 +9,11 @@ Internal buffer: **28 March 2027**
 
 - [ ] Registered on ISODS **and** Kaggle
 - [ ] Team 1–3 members in an eligible category
-- [ ] Kaggle Writeup submitted (not left as draft)
+- [ ] Kaggle Writeup submitted (not left as draft) — paste from `docs/WRITEUP.md`
 - [ ] Cover image in Media Gallery (`docs/cover.png`)
-- [ ] YouTube video ≤10 min, public, Part 1 + Part 2 labeled
-- [ ] Public code repository (this repo)
-- [ ] Public vector DB + original data (Hugging Face or Kaggle Dataset or shared link)
+- [ ] YouTube video ≤10 min, public, Part 1 + Part 2 labeled — follow `docs/VIDEO_SCRIPT.md`
+- [x] Public code repository: https://github.com/akshaymathur777/6th-world-championship
+- [x] Public vector DB + original data: https://huggingface.co/datasets/akshaymathur777/cdc-clinical-guidelines-privacy-first
 - [ ] All links open without login
 
 ## Qualitative scoring targets

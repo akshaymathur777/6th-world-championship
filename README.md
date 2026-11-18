@@ -4,6 +4,9 @@ A clinician asks about a specific patient. That question never leaves the machin
 
 This is the engineering package for the [6th World Championship in Data Science & AI](https://www.kaggle.com/competitions/privacy-first-agentic-ai) (Privacy-First Agentic AI with Yankee AI and Chroma DB).
 
+- Code: https://github.com/akshaymathur777/6th-world-championship
+- Dataset: https://huggingface.co/datasets/akshaymathur777/cdc-clinical-guidelines-privacy-first
+
 ## Privacy boundary
 
 | Stays local | Published |
