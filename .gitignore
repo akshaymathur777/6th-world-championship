@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/corpus/
+data/indexes/
+data/cache/
+data/exports/
+data/tmp/
+data/ablate*.log
+data/*.log
+*.msi
+eval/questions.partial.jsonl

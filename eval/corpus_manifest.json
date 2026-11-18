@@ -1,0 +1,11 @@
+{
+  "source_dataset": "epfl-llm/guidelines",
+  "source_tag": "cdc",
+  "created_utc": "2026-11-17T10:55:14.638357+00:00",
+  "documents": 616,
+  "dropped": 5,
+  "words": 6770441,
+  "documents_with_cdc_url": 234,
+  "corpus_sha256": "e3a1970aebbe5c12f6aaa0c4a992b8f2c948bbea1642c9fcd0f423982148a69d",
+  "note": "Only source=cdc rows are kept. The upstream release leaves CDC title and url empty, so title is recovered from headings and url from the first cdc.gov link in the raw text. Documents with a third-party notice in the opening are dropped."
+}

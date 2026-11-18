@@ -1,0 +1,15 @@
+{
+  "run_id": "section__mxbai-embed-large__m16c100s100",
+  "chunker": "section",
+  "embedding_model": "mxbai-embed-large",
+  "hnsw_m": 16,
+  "hnsw_construction_ef": 100,
+  "hnsw_search_ef": 100,
+  "recall_at_5": 0.76,
+  "recall_se": 0.030842951993732517,
+  "noise_floor": 0.061685903987465034,
+  "p50_latency_ms": 32.95240000079502,
+  "n_chunks": 40361,
+  "index_bytes": 654911074,
+  "rule": "Replace the incumbent only when Recall@5 gain exceeds 2 * sqrt(se_a^2 + se_b^2). Latency never overrides Recall@5."
+}

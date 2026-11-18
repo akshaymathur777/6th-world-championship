@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-11-17T11:08:53.581545+00:00",
+  "question_model": "llama3.2:3b",
+  "target": 200,
+  "section_words": [
+    80,
+    400
+  ],
+  "n_questions": 200,
+  "n_demo": 3,
+  "corpus_sha256": "e3a1970aebbe5c12f6aaa0c4a992b8f2c948bbea1642c9fcd0f423982148a69d",
+  "questions_sha256": "e40f56d636c54975dc9a24542dc0f8309574e9aaa50c02609805643f231ccfc5",
+  "cdcqa": "not on Hugging Face Hub on 2026-11-17; section questions used instead",
+  "selection": "Eligible sections sorted by sha256(doc_id, section). Walk in that order until 200 accepted questions. First three are the demo queries."
+}
