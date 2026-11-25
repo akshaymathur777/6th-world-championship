@@ -11,7 +11,7 @@ Internal buffer: **28 March 2027**
 - [ ] Team 1–3 members in an eligible category
 - [ ] Kaggle Writeup submitted (not left as draft) — paste from `docs/WRITEUP.md`
 - [ ] Cover image in Media Gallery (`docs/cover.png`)
-- [ ] YouTube video ≤10 min, public, Part 1 + Part 2 labeled — follow `docs/VIDEO_SCRIPT.md`
+- [ ] YouTube video ≤10 min, public, Part 1 + Part 2 labeled — upload `docs/championship_video.mp4` (~7.6 min slideshow; optionally re-record Part 2 live in Yankee)
 - [x] Public code repository: https://github.com/akshaymathur777/6th-world-championship
 - [x] Public vector DB + original data: https://huggingface.co/datasets/akshaymathur777/cdc-clinical-guidelines-privacy-first
 - [ ] All links open without login

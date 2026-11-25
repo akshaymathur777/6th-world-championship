@@ -13,14 +13,18 @@ Post publicly. No login wall. Structure required by the championship: Part 1 vec
 
 ## Part 2 — Yankee AI integration (~4–5 min)
 
-1. **Import (60s).** Yankee → My Files → Collections → Import → `cdc-guidelines-yankee.zip`. Select `ollama:nomic-embed-text` (or the winner).
+1. **Import (60s).** Yankee → My Files → Collections → Import → `cdc-guidelines-yankee.zip`. Select `ollama:mxbai-embed-large`.
 2. **Demo Q1–Q3 (3 min).** Use the three `demo: true` questions from `eval/questions.jsonl` / `docs/demo_transcript.md`. For each: ask, show retrieved section titles, show citations. No patient identifiers on screen.
 3. **Close (30s).** Repeat the privacy boundary. Point judges to the public repo, dataset, and writeup.
+
+## Draft video
+
+`docs/championship_video.mp4` (~7.6 minutes) is a Part 1 + Part 2 slideshow built from the writeup, experiments, and `demo_transcript.md`. Upload it to YouTube, or replace Part 2 with a live Yankee import screen recording.
 
 ## Recording checklist
 
 - [ ] Cover image attached on Kaggle writeup
-- [ ] Video ≤10:00
+- [x] Video ≤10:00 (`docs/championship_video.mp4`)
 - [ ] YouTube public / unlisted without login
-- [ ] Part 1 and Part 2 clearly labeled on screen
-- [ ] No PHI, no real patient narratives
+- [x] Part 1 and Part 2 clearly labeled on screen
+- [x] No PHI, no real patient narratives
