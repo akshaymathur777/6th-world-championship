@@ -92,4 +92,4 @@ Artifacts:
 - Yankee import: `cdc-guidelines-yankee.zip` with embedding model `ollama:mxbai-embed-large`
 - Cover: `docs/cover.png`
 - Demo transcript: `docs/demo_transcript.md`
-- Video: record from `docs/VIDEO_SCRIPT.md` (≤10 min, Part 1 index / Part 2 Yankee)
+- Video: `docs/championship_video.mp4` (~7.6 min Part 1 + Part 2 slideshow; upload to YouTube)
